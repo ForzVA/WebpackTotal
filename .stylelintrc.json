@@ -1,0 +1,7 @@
+{
+    "extends": ["stylelint-config-standard"],
+    "rules": {
+        "function-no-unknown": null,
+        "unit-no-unknown": true
+    }
+}
