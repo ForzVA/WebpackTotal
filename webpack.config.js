@@ -27,7 +27,6 @@ var config ={
             filename: 'output.css'
         }),
         new StylelintPlugin({
-            configFile: './src/index.css'
         }),
     ],
 
